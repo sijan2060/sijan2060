@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm From Kathmandu. Nepal<br><br>🖥️ Frontend & Backend developer<br>🌏 Based in Kathmandu, Nepal<br>💡 Passionate about clean code, scalability, and user-centric designs<br>🚀 Always exploring new tech and pushing the boundaries of what’s possible!"</p>
+<p align="left">I'm From Kathmandu. Nepal<br><br>🖥️ Full-stack developer<br>🌏 Based in Kathmandu, Nepal<br>💡 Passionate about clean code, scalability, and user-centric designs<br>🚀 Always exploring new tech and pushing the boundaries of what’s possible!"</p>
 
 ###
 
