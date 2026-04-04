@@ -16,7 +16,7 @@ I love building **responsive** and **user-friendly web applications** and contin
 
 ## 📂 Projects
 
-- **Portfolio Website** – Showcases my projects and skills (https://github.com/sijan2060/Portfolio(#))  
+- **Portfolio Website** – Showcases my projects and skills (https://github.com/sijan2060/Portfolio)  
 - **Two-Wheeler Rental Web App** – Full-stack app for renting bikes ([GitHub Link](#))  
 -  
 
