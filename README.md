@@ -1,69 +1,59 @@
-<h1 align="center">Namaste 🙏, I'm Sijan</h1>
-
-###
-
-<p align="center">
-Aspiring Full-Stack Web Developer from Kathmandu, Nepal 🇳🇵<br/>
-I love building responsive, user-friendly web applications and continuously improving my skills in both frontend and backend development.
-</p>
-
-###
-
-## 🌐 Connect with me
+<h1 align="center">Namaste, I'm Sijan Maharjan 🙏</h1>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/sijan-maharjan-4a3408282/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/sm44X" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/fdr.season/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+from+Kathmandu;Constant+Learner+🚀" alt="Typing SVG" />
 </div>
 
-###
+### 🚀 About Me
+I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I specialize in building responsive, user-friendly web applications and am currently focused on mastering the **MERN stack** to build scalable digital solutions.
 
-## 🚀 Tech Stack
+* 🔭 I’m currently working on improving my **Backend & API architectural skills**.
+* 🌱 I’m learning **Advanced React patterns** and **Cloud Deployment**.
+* ⚡ Fun fact: I love the intersection of clean design and efficient code.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-###
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" height="170" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sijan2060&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan2060&layout=compact&theme=tokyonight" height="180"/>
-</p>
+### 👾 Activity Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
 
-###
+---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/sijan2060/sijan2060/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+### 🤝 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/sijan-maharjan-4a3408282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://x.com/sm44X" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://www.instagram.com/fdr.season/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</div>
