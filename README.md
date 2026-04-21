@@ -56,8 +56,8 @@ I love building responsive, user-friendly web applications and continuously impr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sijan2060&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan2060&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ###
@@ -65,5 +65,5 @@ I love building responsive, user-friendly web applications and continuously impr
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg"/>
+  <img src="https://github.com/sijan2060/sijan2060/blob/output/github-contribution-grid-snake.svg"/>
 </p>
