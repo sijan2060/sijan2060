@@ -32,8 +32,8 @@ I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I spec
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sijan2060&show_icons=true&theme=tokyonight" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sijan2060&layout=compact&theme=tokyonight" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sijan2060&show_icons=true&theme=tokyonight" alt="Sijan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sijan2060&layout=compact&theme=tokyonight" alt="Sijan's Top Languages" />
 </div>
 
 ### 👾 Activity Graph
