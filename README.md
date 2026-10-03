@@ -5,15 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sijan2060">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Backend+%26+API+Development;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Backend+%26+API+Development;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sijan2060">
-    <img src="https://komarev.com/ghpvc/?username=sijan2060&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sijan2060&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -50,48 +46,18 @@ My current focus is on strengthening my **backend engineering, REST APIs, databa
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 </p>
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+</p>
 
 ### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools and platforms" />
 </p>
-
----
-
-## 🧩 What I'm Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 Pasalmandu
-
-An AI-powered hyperlocal grocery delivery platform designed for the Nepali market.
-
-**Working with:**
-
-React • Node.js • REST APIs • MongoDB • Microsoft SQL Server • TypeScript
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend & APIs
-
-Building a stronger foundation in backend engineering through authentication, protected routes, database integration, API architecture, and full-stack integration.
-
-**Focus:**
-
-REST APIs • JWT • Express.js • MongoDB • SQL Server
-
-</td>
-</tr>
-</table>
 
 ---
 
