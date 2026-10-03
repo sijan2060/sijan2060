@@ -25,6 +25,7 @@ I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I spec
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
 <br>
 
@@ -54,16 +55,6 @@ I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I spec
 <img src="https://github-readme-stats.vercel.app/api?username=sijan2060&show_icons=true&theme=tokyonight" alt="Sijan's GitHub Stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan2060&layout=compact&theme=tokyonight" alt="Sijan's Top Languages">
-
-</div>
-
----
-
-## 👾 Activity Graph
-
-<div align="center">
-
-[![Sijan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sijan2060\&theme=tokyo-night)](https://github.com/sijan2060)
 
 </div>
 
