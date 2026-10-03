@@ -4,13 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+from+Kathmandu;Constant+Learner+🚀" alt="Typing SVG" />
 </div>
 
+---
+
 ### 🚀 About Me
 
 I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I specialize in building responsive, user-friendly web applications and am currently focused on mastering the **MERN stack** to build scalable digital solutions.
 
-- 🔭 I’m currently working on improving my **Backend & API architectural skills**.
-- 🌱 I’m learning **Advanced React patterns** and **Cloud Deployment**.
-- ⚡ Fun fact: I love the intersection of clean design and efficient code.
+* 🔭 I’m currently working on improving my **Backend & API architectural skills**.
+* 🌱 I’m learning **Advanced React patterns** and **Cloud Deployment**.
+* ⚡ Fun fact: I love the intersection of clean design and efficient code.
 
 ---
 
@@ -59,7 +61,7 @@ I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I spec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sijan2060&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sijan2060&theme=tokyo-night&hide_border=true" width="100%" alt="Sijan's GitHub Activity Graph" />
 
 </div>
 
