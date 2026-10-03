@@ -1,84 +1,133 @@
-<h1 align="center">Namaste, I'm Sijan Maharjan 🙏</h1>
+<h1 align="center">Namaste, I'm Sijan Maharjan 👋</h1>
 
-<div align="center">
+<p align="center">
+  <strong>Full-Stack Web Developer • Backend & API Development • Kathmandu, Nepal 🇳🇵</strong>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+from+Kathmandu;Constant+Learner+🚀" alt="Typing SVG">
+<p align="center">
+  <a href="https://github.com/sijan2060">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Backend+%26+API+Development;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/sijan2060">
+    <img src="https://komarev.com/ghpvc/?username=sijan2060&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I specialize in building responsive, user-friendly web applications and am currently focused on mastering the **MERN stack** and backend development to build scalable digital solutions.
+I'm a **Full-Stack Web Developer** from **Kathmandu, Nepal**, focused on building practical, scalable, and user-friendly web applications.
 
-* 🔭 I’m currently working on improving my **Backend & API architectural skills**
-* 🌱 I’m learning **Advanced React patterns, TypeScript & Cloud Deployment**
-* 🗄️ I’m working with both **MongoDB and Microsoft SQL Server**
-* ⚡ Fun fact: I love the intersection of clean design and efficient code
+My current focus is on strengthening my **backend engineering, REST APIs, database architecture, authentication, and full-stack application development**.
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-</div>
+* 🔭 Building and improving full-stack web applications
+* 🌱 Learning **Advanced React, TypeScript & Cloud Deployment**
+* ⚙️ Developing **REST APIs and backend services**
+* 🗄️ Working with **MongoDB & Microsoft SQL Server**
+* 🔐 Exploring authentication, authorization & application security
+* 🎯 Goal: Build production-ready applications from frontend to backend
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Tech Stack
 
-<div align="center">
+### Frontend
 
-<img src="https://github-readme-stats.vercel.app/api?username=sijan2060&show_icons=true&theme=tokyonight" alt="Sijan's GitHub Stats">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend technologies" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan2060&layout=compact&theme=tokyonight" alt="Sijan's Top Languages">
+### Backend
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" />
+</p>
+
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools and platforms" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🧩 What I'm Working On
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://www.linkedin.com/in/sijan-maharjan-4a3408282/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+### 🛒 Pasalmandu
 
-<a href="https://x.com/sm44X" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
+An AI-powered hyperlocal grocery delivery platform designed for the Nepali market.
 
-<a href="https://www.instagram.com/fdr.season/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+**Working with:**
 
-</div>
+React • Node.js • REST APIs • MongoDB • Microsoft SQL Server • TypeScript
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend & APIs
+
+Building a stronger foundation in backend engineering through authentication, protected routes, database integration, API architecture, and full-stack integration.
+
+**Focus:**
+
+REST APIs • JWT • Express.js • MongoDB • SQL Server
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sijan2060&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Sijan's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan2060&layout=compact&hide_border=true&theme=tokyonight" alt="Sijan's Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sijan2060&theme=tokyo-night&hide_border=true&area=true" alt="Sijan's Contribution Graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sijan-maharjan-4a3408282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/sm44X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/fdr.season/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
+</p>
