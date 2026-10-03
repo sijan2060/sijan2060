@@ -10,10 +10,11 @@
 
 ## 🚀 About Me
 
-I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I specialize in building responsive, user-friendly web applications and am currently focused on mastering the **MERN stack** to build scalable digital solutions.
+I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I specialize in building responsive, user-friendly web applications and am currently focused on mastering the **MERN stack** and backend development to build scalable digital solutions.
 
 * 🔭 I’m currently working on improving my **Backend & API architectural skills**
-* 🌱 I’m learning **Advanced React patterns** and **Cloud Deployment**
+* 🌱 I’m learning **Advanced React patterns, TypeScript & Cloud Deployment**
+* 🗄️ I’m working with both **MongoDB and Microsoft SQL Server**
 * ⚡ Fun fact: I love the intersection of clean design and efficient code
 
 ---
@@ -36,6 +37,10 @@ I am a passionate **Full-Stack Web Developer** based in Kathmandu, Nepal. I spec
 <br>
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+
+<br>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
